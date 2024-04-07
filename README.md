@@ -13,10 +13,10 @@ Projeto integrador - Analise e desenvolvimento de Sistemas
 [ ] **04:** Validação de entrada <br>
 
 # 🔧 Plano do desenvolvimento:
-• Frontend em bootstrap para garantir o design responsivo e Javascript para garantir a interatividade do operador.
-• Backend em PHP para realuzar o CRUD e MySQL para armazenamento dos dados dos alunos. Validações no banco para garantir a integridade do aluno.
-• Integração via HTTP para enviar e receber dados do servidor e obter acesso externo.
-• Testes e implantação em ambiente de hospedagem básico.
+• Frontend em bootstrap para garantir o design responsivo e Javascript para garantir a interatividade do operador. <br>
+• Backend em PHP para realuzar o CRUD e MySQL para armazenamento dos dados dos alunos. Validações no banco para garantir a integridade do aluno. <br>
+• Integração via HTTP para enviar e receber dados do servidor e obter acesso externo. <br>
+• Testes e implantação em ambiente de hospedagem básico. <br>
 
 
 # 🔧 Etapas do desenvolvimento:
