@@ -18,6 +18,7 @@ Projeto integrador - Analise e desenvolvimento de Sistemas
 • Integração via HTTP para enviar e receber dados do servidor e obter acesso externo.
 • Testes e implantação em ambiente de hospedagem básico.
 
+
 # 🔧 Etapas do desenvolvimento:
 
 **BACK-END**  
